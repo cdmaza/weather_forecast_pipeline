@@ -1,0 +1,15 @@
+[2024-09-20T18:53:58.281+0800] {processor.py:186} INFO - Started process (PID=14858) to work on /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-09-20T18:53:58.283+0800] {processor.py:914} INFO - Processing file /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2024-09-20T18:53:58.287+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.287+0800] {dagbag.py:587} INFO - Filling up the DagBag from /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-09-20T18:53:58.303+0800] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2024-09-20T18:53:58.530+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.529+0800] {override.py:1900} INFO - Created Permission View: can delete on DAG:tutorial
+[2024-09-20T18:53:58.575+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.574+0800] {override.py:1900} INFO - Created Permission View: can read on DAG:tutorial
+[2024-09-20T18:53:58.609+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.608+0800] {override.py:1900} INFO - Created Permission View: can edit on DAG:tutorial
+[2024-09-20T18:53:58.665+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.665+0800] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tutorial
+[2024-09-20T18:53:58.697+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.696+0800] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tutorial
+[2024-09-20T18:53:58.726+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.726+0800] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tutorial
+[2024-09-20T18:53:58.756+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.755+0800] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tutorial
+[2024-09-20T18:53:58.756+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.756+0800] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-20T18:53:58.775+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.775+0800] {dag.py:3252} INFO - Creating ORM DAG for tutorial
+[2024-09-20T18:53:58.789+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:58.789+0800] {dag.py:4156} INFO - Setting next_dagrun for tutorial to 2024-09-19 00:00:00+00:00, run_after=2024-09-20 00:00:00+00:00
+[2024-09-20T18:53:58.851+0800] {processor.py:208} INFO - Processing /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.583 seconds

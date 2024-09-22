@@ -1,0 +1,15 @@
+[2024-09-20T18:54:03.114+0800] {processor.py:186} INFO - Started process (PID=14880) to work on /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-09-20T18:54:03.115+0800] {processor.py:914} INFO - Processing file /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2024-09-20T18:54:03.117+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.116+0800] {dagbag.py:587} INFO - Filling up the DagBag from /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-09-20T18:54:03.124+0800] {processor.py:925} INFO - DAG(s) 'example_trigger_controller_dag' retrieved from /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2024-09-20T18:54:03.250+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.250+0800] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_trigger_controller_dag
+[2024-09-20T18:54:03.278+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.278+0800] {override.py:1900} INFO - Created Permission View: can read on DAG:example_trigger_controller_dag
+[2024-09-20T18:54:03.307+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.306+0800] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_trigger_controller_dag
+[2024-09-20T18:54:03.355+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.354+0800] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_trigger_controller_dag
+[2024-09-20T18:54:03.383+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.382+0800] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_trigger_controller_dag
+[2024-09-20T18:54:03.411+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.411+0800] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_trigger_controller_dag
+[2024-09-20T18:54:03.439+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.439+0800] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_trigger_controller_dag
+[2024-09-20T18:54:03.440+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.439+0800] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-20T18:54:03.457+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.457+0800] {dag.py:3252} INFO - Creating ORM DAG for example_trigger_controller_dag
+[2024-09-20T18:54:03.467+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:54:03.467+0800] {dag.py:4156} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01 00:00:00+00:00, run_after=2021-01-01 00:00:00+00:00
+[2024-09-20T18:54:03.513+0800] {processor.py:208} INFO - Processing /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.404 seconds

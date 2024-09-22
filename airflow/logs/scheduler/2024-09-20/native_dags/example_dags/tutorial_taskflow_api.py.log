@@ -1,0 +1,15 @@
+[2024-09-20T18:53:51.357+0800] {processor.py:186} INFO - Started process (PID=14826) to work on /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-20T18:53:51.362+0800] {processor.py:914} INFO - Processing file /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py for tasks to queue
+[2024-09-20T18:53:51.375+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:51.373+0800] {dagbag.py:587} INFO - Filling up the DagBag from /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-20T18:53:51.420+0800] {processor.py:925} INFO - DAG(s) 'tutorial_taskflow_api' retrieved from /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py
+[2024-09-20T18:53:52.120+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:52.118+0800] {override.py:1900} INFO - Created Permission View: can delete on DAG:tutorial_taskflow_api
+[2024-09-20T18:53:52.300+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:52.299+0800] {override.py:1900} INFO - Created Permission View: can read on DAG:tutorial_taskflow_api
+[2024-09-20T18:53:52.329+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:52.329+0800] {override.py:1900} INFO - Created Permission View: can edit on DAG:tutorial_taskflow_api
+[2024-09-20T18:53:52.373+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:52.372+0800] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tutorial_taskflow_api
+[2024-09-20T18:53:52.414+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:52.413+0800] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tutorial_taskflow_api
+[2024-09-20T18:53:52.452+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:52.451+0800] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tutorial_taskflow_api
+[2024-09-20T18:53:52.486+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:52.485+0800] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tutorial_taskflow_api
+[2024-09-20T18:53:52.487+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:52.486+0800] {dag.py:3229} INFO - Sync 1 DAGs
+[2024-09-20T18:53:52.511+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:52.511+0800] {dag.py:3252} INFO - Creating ORM DAG for tutorial_taskflow_api
+[2024-09-20T18:53:52.512+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:52.512+0800] {dag.py:4156} INFO - Setting next_dagrun for tutorial_taskflow_api to None, run_after=None
+[2024-09-20T18:53:52.568+0800] {processor.py:208} INFO - Processing /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api.py took 1.241 seconds

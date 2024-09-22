@@ -1,0 +1,6 @@
+[2024-09-20T18:53:49.862+0800] {processor.py:186} INFO - Started process (PID=14819) to work on /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2024-09-20T18:53:49.864+0800] {processor.py:914} INFO - Processing file /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py for tasks to queue
+[2024-09-20T18:53:49.867+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:49.866+0800] {dagbag.py:587} INFO - Filling up the DagBag from /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2024-09-20T18:53:49.947+0800] {logging_mixin.py:190} INFO - [2024-09-20T18:53:49.946+0800] {tutorial_taskflow_api_virtualenv.py:29} WARNING - The tutorial_taskflow_api_virtualenv example DAG requires virtualenv, please install it.
+[2024-09-20T18:53:49.947+0800] {processor.py:927} WARNING - No viable dags retrieved from /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py
+[2024-09-20T18:53:49.965+0800] {processor.py:208} INFO - Processing /home/cdmaza/.local/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_virtualenv.py took 0.124 seconds

@@ -1,0 +1,4 @@
+location,date,morning_forecast,afternoon_forecast,night_forecast,summary_forecast,summary_when,min_temp,max_temp
+"{'location_id': 'Ds001', 'location_name': 'Langkawi'}",2024-09-25,Ribut petir di kebanyakan tempat,Ribut petir di kebanyakan tempat,Tiada hujan,Ribut petir di kebanyakan tempat,Pagi dan Petang,25,31
+"{'location_id': 'Ds001', 'location_name': 'Langkawi'}",2024-09-24,Ribut petir di kebanyakan tempat,Ribut petir di kebanyakan tempat,Tiada hujan,Ribut petir di kebanyakan tempat,Pagi dan Petang,25,31
+"{'location_id': 'Ds001', 'location_name': 'Langkawi'}",2024-09-23,Ribut petir di kebanyakan tempat,Ribut petir di kebanyakan tempat,Tiada hujan,Ribut petir di kebanyakan tempat,Pagi dan Petang,25,31

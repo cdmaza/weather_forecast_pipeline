@@ -1,0 +1,7 @@
+apache-airflow-providers-cncf-kubernetes
+pip install opendatasets --upgrade --quiet
+pip install pandas
+pip install kaggle
+
+
+# https://medium.com/@ericfflynn/installing-apache-airflow-with-pip-593717580f86

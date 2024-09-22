@@ -1,0 +1,32 @@
+# Ignore Python virtual environments
+airflow/venv/
+airflow/logs/
+
+# Ignore .vscode settings folder
+.vscode/
+
+# Ignore log files
+input_log.log
+
+# pyenv
+.python-version
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
